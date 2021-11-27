@@ -1,20 +1,17 @@
 const CONFIG = {
     titleWeb: "Gửi ngàn lời xin lỗi chân thành đến em",
     introTitle: 'Trần Thụy Thanh Ngân',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    introDesc: `Anh cảm thấy có lỗi khi đã làm với em như z và anh muốn xin lỗi em :<`,
+    btnIntro: 'nói đi nghe ne-.-',
+    title: 'anh xin lỗi ',
+    desc: 'anh không muốn thấy người con gái anh yêu cảm thấy thất vọng về anh anh cảm thấy nhớ em rất nhiều',
     btnYes: 'Chấp nhận tha thứ cho lỗi lầm của anh :<<',
-    btnNo: 'Không tha thứ muốn giận lâu hơn nữa',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'anh thật sự thấy sai r ạ',
+    btnNo: 'Không tha thứ muốn giận lâu hơn nữa -.-',
+    question: 'Trên thế giới hơn 7 tỉ người nhưng anh chỉ yêu mình mỗi công cháu của anh',
+    btnReply: 'Gửi cho công chúa <3',
+    reply: 'em đồng ý tha lỗi cho anh -.- nhớ là phải yêu thương em nhiều hơn đó ',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Anh biết ngay e sẽ tha thứ cho anh mà vậy bây giờ em cho phép anh yêu em bù đắp cho em thêm một lần nữa nha bxa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'hứ yêu anh -.- ',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
