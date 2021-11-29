@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Gửi ngàn lời xin lỗi chân thành đến baee :<`,
     btnIntro: 'nói -.-',
     title: 'anh xin lỗi ',
-    desc: 'anh không muốn thấy người con gái tuyệt vời anh yêu cảm thấy thất vọng về anh nữa anh cũng không muốn phải nhìn em xa anh chút nào nữa <3 ',
+    desc: 'anh không muốn thấy người con gái tuyệt vời anh yêu cảm thấy thất vọng về anh nữa anh cũng không muốn phải nhìn em xa anh chút nào nữa ',
     btnYes: 'Baee chấp nhận tha thứ cho lỗi lầm của anh đã gây ra nha :<',
     btnNo: 'Không tha thứ muốn giận lâu hơn nữa -.-',
     question: 'em đồng ý tha lỗi cho anh nha công chúa yêu dấu',
